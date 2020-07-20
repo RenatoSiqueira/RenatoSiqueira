@@ -1,4 +1,4 @@
-### Hi there 👋, Renato Siqueira
+### Renato Siqueira
 #### Im a Node & React Developer
 I love new challenges!
 Look my StudyFlow Repo to view latest updates on my studies.
