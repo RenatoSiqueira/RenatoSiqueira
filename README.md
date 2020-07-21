@@ -21,8 +21,15 @@ Skills: NODE / REACT / JS / HTML / CSS / MONGO / MYSQL and more...
 [Convert My Money](https://convertmymoney.renatosiqueira.dev/)
 - Stack: Nodejs + Express + EJS + Bulma + CI/CD + Axios + Jest + JQuery + Zeit
 
-[Pokedex API](http://nodejs-pokedex.renatosiqueira.dev/)
+[Pokedex API With Front](http://nodejs-pokedex.renatosiqueira.dev/)
 - Stack: NodeJs + Express + EJS + Swagger + Chai + Mocha + Request + Docker + CI/CD + Axios
+
+[Pokedex React](https://reactjspokedex.netlify.app/)
+- Stack: React + Axios + CI/CD + Netlify
+
+[Bossabox Test](http://vuttr.renatosiqueira.dev)
+- Stack: NodeJs + Express + BcryptJs + JsonWebToken (Jwt) + Mongoose + Swagger + Chai + Mocha + Request + CI/CD + Heroku
+- Access /docs to view swagger front
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=renatosiqueira&show_icons=true)
 
