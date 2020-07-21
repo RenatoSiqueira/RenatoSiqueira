@@ -27,7 +27,7 @@ Skills: NODE / REACT / JS / HTML / CSS / MONGO / MYSQL and more...
 [Pokedex React](https://reactjspokedex.netlify.app/)
 - Stack: React + Axios + CI/CD + Netlify
 
-[Bossabox Test](http://vuttr.renatosiqueira.dev)
+[Bossabox Test](http://vuttr.renatosiqueira.dev/docs)
 - Stack: NodeJs + Express + BcryptJs + JsonWebToken (Jwt) + Mongoose + Swagger + Chai + Mocha + Request + CI/CD + Heroku
 - Access /docs to view swagger front
 
