@@ -5,7 +5,7 @@ Look my StudyFlow Repo to view latest updates on my studies.
 
 Skills: NODE / REACT / JS / HTML / CSS / MONGO / MYSQL and more...
 
-- 🔭 I’m currently working on Devpleno / WeDevIdeas projects 
+- 🔭 I’m currently working on Devpleno, WeDevIdeas and ID49 projects 
 - 🌱 I’m currently learning Gatsby, NextJs, NestJs, GraphQL 
 - 📫 How to reach me: Linkedin / Email 
 
