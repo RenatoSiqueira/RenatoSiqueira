@@ -13,38 +13,38 @@ Skills: NODE / REACT / JS / HTML / CSS / MONGO / MYSQL and more...
 
 ### Projects
 [Agenda Simples](http://agendasimples.renatosiqueira.dev/)
-[Repo](https://github.com/RenatoSiqueira/AgendaSimples)
+- [Repo](https://github.com/RenatoSiqueira/AgendaSimples)
 - Stack: NextJS + Tailwind + DateFNS + Google Apis (Integração com Google Calendar)
 
 [PrecisoDe](http://precisode.vercel.app/)
-[Repo](https://github.com/RenatoSiqueira/PrecisoDe)
+- [Repo](https://github.com/RenatoSiqueira/PrecisoDe)
 - Stack: NextJS + Tailwind + SWR + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
 [Caixa de Sugestões - PalpiteBox](https://palpite-box.renatosiqueira.dev/)
-[Repo](https://github.com/RenatoSiqueira/palpiteBox)
+- [Repo](https://github.com/RenatoSiqueira/palpiteBox)
 - Stack: NextJS + Tailwind + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
 [Find Docs](https://react-finddocs.renatosiqueira.dev/)
 - Stack: React + Surge + Algolia
 
 [Bug Tracker](http://bugtracker.renatosiqueira.dev/)
-[Repo](https://github.com/RenatoSiqueira/DevPleno_BugTracker)
+- [Repo](https://github.com/RenatoSiqueira/DevPleno_BugTracker)
 - Stack: React + Google Spreadsheet + Zeit
 
 [Convert My Money](https://convertmymoney.renatosiqueira.dev/)
-[Repo](https://github.com/RenatoSiqueira/DevPleno_ConvertMyMoney)
+- [Repo](https://github.com/RenatoSiqueira/DevPleno_ConvertMyMoney)
 - Stack: Nodejs + Express + EJS + Bulma + CI/CD + Axios + Jest + JQuery + Zeit
 
 [Pokedex API With Front](http://nodejs-pokedex.renatosiqueira.dev/)
-[Repo](https://github.com/RenatoSiqueira/NodeJS_Pokedex)
+- [Repo](https://github.com/RenatoSiqueira/NodeJS_Pokedex)
 - Stack: NodeJs + Express + EJS + Swagger + Chai + Mocha + Request + Docker + CI/CD + Axios
 
 [Pokedex React](https://reactjspokedex.netlify.app/)
-[Repo](https://github.com/RenatoSiqueira/React_Pokedex)
+- [Repo](https://github.com/RenatoSiqueira/React_Pokedex)
 - Stack: React + Axios + CI/CD + Netlify
 
 [Bossabox Test](http://vuttr.renatosiqueira.dev/docs)
-[Repo](https://github.com/RenatoSiqueira/Bossabox_Test-Backend)
+- [Repo](https://github.com/RenatoSiqueira/Bossabox_Test-Backend)
 - Stack: NodeJs + Express + BcryptJs + JsonWebToken (Jwt) + Mongoose + Swagger + Chai + Mocha + Request + CI/CD + Heroku
 - Access /docs to view swagger front
 
