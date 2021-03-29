@@ -15,11 +15,13 @@ Skills: NODE / REACT / JS / HTML / CSS / MONGO / MYSQL and more...
 
 ### Projects
 
+[Luz Expandida](https://luzexpandida.com.br/)
+- Stack: NextJS + Tailwind + SWR + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
+
 [Como-Fazer](https://comofazer.renatosiqueira.dev/)
 
 - [Repo](https://github.com/RenatoSiqueira/DevPleno-Como-Fazer)
 - Stack: Node + ExpressJS + EJS + BootstrapV5 + Firebase + Axios
-
 
 [Agenda SaaS](https://agendasaas.renatosiqueira.dev/)
 
