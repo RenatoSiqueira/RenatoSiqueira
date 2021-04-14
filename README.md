@@ -15,6 +15,11 @@ Skills: NODE / REACT / JS / HTML / CSS / MONGO / MYSQL and more...
 
 ### Projects
 
+[Minhas-Séries](https://minhasseries.renatosiqueira.dev/)
+
+- [Repo](https://github.com/RenatoSiqueira/DevPleno_Minhas-Series)
+- Stack: Node + ExpressJS + EJS + HTML/CSS + MongoDB (Atlas) + Mongoose + Axios
+
 [Luz Expandida](https://luzexpandida.com.br/)
 - Stack: NextJS + Tailwind + SWR + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
