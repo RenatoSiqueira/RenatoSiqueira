@@ -13,7 +13,7 @@ Skills: NODE / REACT / JS / HTML / CSS / MONGO / MYSQL and more...
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/renatosiqueira) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/renatosiqueira/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://renatosiqueira.dev/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=renatosiqueira)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=renatosiqueira&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Projects
 
