@@ -37,7 +37,7 @@
 - [Repo](https://github.com/RenatoSiqueira/DevPleno_Minhas-Series)
 - Stack: Node + ExpressJS + EJS + HTML/CSS + MongoDB (Atlas) + Mongoose + Axios
 
-[Luz Expandida](https://luzexpandida.com.br/)
+[Luz Expandida](https://reiki.vercel.app/)
 - Stack: NextJS + Tailwind + SWR + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
 [Como-Fazer](https://comofazer.renatosiqueira.dev/)
