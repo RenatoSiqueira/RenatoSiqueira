@@ -3,9 +3,9 @@
 
 ![Profile views](https://gpvc.arturio.dev/renatosiqueira)
 
-- 🔭 I’m currently working on [Devpleno, WeDevIdeas and ID49 projects](https://github.com/devpleno)
+- 🔭 I’m currently working on [FanHero](https://fanhero.com/) / [Devpleno, WeDevIdeas and ID49 projects](https://github.com/devpleno)
 
-- 🌱 I’m currently learning **NodeJS, NestJS, ReactJS, NextJS, TypeORM...**
+- 🌱 I’m currently learning **Serverless, AWS, NodeJS, NestJS, ReactJS, NextJS, TypeORM...**
 
 - 👨‍💻 All of my projects are available at [https://www.renatosiqueira.dev/](https://www.renatosiqueira.dev/)
 
