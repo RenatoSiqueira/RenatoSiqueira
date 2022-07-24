@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Serverless, AWS, NodeJS, NestJS, ReactJS, NextJS, TypeORM...**
 
-- 👨‍💻 All of my projects are available at [https://www.renatosiqueira.dev/](https://www.renatosiqueira.dev/)
-
 - 💬 Ask me about **NodeJS & ReactJS**
 
 - 📫 How to reach me **renatoelysiqueira@gmail.com**
