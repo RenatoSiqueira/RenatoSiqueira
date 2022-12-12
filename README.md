@@ -36,6 +36,7 @@
 - Stack: Node + ExpressJS + EJS + HTML/CSS + MongoDB (Atlas) + Mongoose + Axios
 
 [Luz Expandida](https://reiki.vercel.app/)
+
 - Stack: NextJS + Tailwind + SWR + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
 [Como-Fazer](https://comofazer.renatosiqueira.dev/)
@@ -52,6 +53,11 @@
 
 - [Repo](https://github.com/RenatoSiqueira/AgendaSimples)
 - Stack: NextJS + Tailwind + DateFNS + Google Apis (Integração com Google Calendar)
+
+[Meu Restô](https://meuresto.renatosiqueira.dev/)
+
+- [Repo](https://github.com/RenatoSiqueira/meuRestaurante)
+- Stack: NextJS + Tailwind + SWR + MomentJS + Google Spreadsheet (Integração com Google Spreadsheet)
 
 [PrecisoDe](http://precisode.vercel.app/)
 
