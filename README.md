@@ -3,7 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/renatosiqueira)
 
-- 🔭 I’m currently working on [FanHero](https://fanhero.com/) / [Devpleno, WeDevIdeas and ID49 projects](https://github.com/devpleno)
+- 🔭 I’m currently working on [FanHero](https://fanhero.com/)
 
 - 🌱 I’m currently learning **Serverless, AWS, NodeJS, NestJS, ReactJS, NextJS, TypeORM...**
 
