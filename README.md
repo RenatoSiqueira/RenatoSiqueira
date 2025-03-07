@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renato</h1>
 <h3 align="center">Im a Node & React Developer</h3>
 
-![Profile views](https://gpvc.arturio.dev/renatosiqueira)
-
 - 🔭 I’m currently working on [FanHero](https://fanhero.com/)
 
 - 🌱 I’m currently learning **Serverless, AWS, NodeJS, NestJS, ReactJS, NextJS, TypeORM...**
